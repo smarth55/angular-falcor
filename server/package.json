@@ -1,0 +1,19 @@
+{
+  "name": "falcor-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Paulsen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "falcor-express": "^0.1.4",
+    "falcor-json-graph": "^1.1.7",
+    "falcor-router": "^0.8.0"
+  }
+}
